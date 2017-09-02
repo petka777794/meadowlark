@@ -1,0 +1,22 @@
+{
+  "name": "meadowlarktravel",
+  "version": "0.0.1",
+  "description": "site about travel",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "not"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not"
+  },
+  "keywords": [
+    "not"
+  ],
+  "author": "Ronnie",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
